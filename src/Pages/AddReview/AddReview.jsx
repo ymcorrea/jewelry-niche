@@ -10,7 +10,7 @@ const AddReview = () => {
   const [rating, setRating] = useState(1); // initial rating value
   // Catch Rating value
   const handleRating = (rate) => {
-    setRating(rate);
+    setRating(rate); 
     console.log(rating);
   };
   const { user } = useAuth();

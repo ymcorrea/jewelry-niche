@@ -23,7 +23,7 @@ function Footer() {
             <Link to='/products'>
               <button className='btn btn-regular px-3 mt-md-4'>
                 EXPLORE NOW
-              </button>
+              </button> 
             </Link>
           </Col>
           <Col xs={12} md={3}>

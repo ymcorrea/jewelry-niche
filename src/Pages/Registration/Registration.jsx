@@ -20,8 +20,7 @@ const Registration = () => {
         data.name,
         data.email,
         data.password,
-        location,
-        history,
+        location, 
       );
     }
   };

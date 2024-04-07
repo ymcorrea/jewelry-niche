@@ -63,7 +63,7 @@ Make sure you have done everything on the main part and bonus. deploy and test e
 15. Also, if you want you can use mongoose.
 16. If possible, replace the default react favicon and give an icon for your website. 
 
-
+ 
 ### Additional information:
 1. You can use local image or host image anywhere if you want or both.
 3. You are free to use any css library you want. But, we recommend using tailwind css. 

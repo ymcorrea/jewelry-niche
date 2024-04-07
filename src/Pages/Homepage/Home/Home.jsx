@@ -19,7 +19,7 @@ const Home = () => {
           <Button variant='contained' color='secondary'>
             Explore All Products
           </Button>
-        </Link>
+        </Link> 
       </div>
       <Review />
       <Trust />

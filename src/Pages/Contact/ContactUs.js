@@ -19,7 +19,7 @@ function Contact() {
                             Quia fugiat sit in iste officiis commodi quidem hic quas.
                         </p>
                     </div>
-                </div>
+                </div> 
 
                 <div>
 

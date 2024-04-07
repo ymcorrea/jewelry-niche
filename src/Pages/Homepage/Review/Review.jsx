@@ -24,7 +24,7 @@ function Review() {
     fetch("https://jewelry-niche-server.vercel.app/review/")
       .then((res) => res.json())
       .then((data) => setReviews(data));
-  }, []);
+  }, []); 
 
   return (
     <Container className='text-center my-md-5 my-3 review-container p-sm-5 mx-auto'>

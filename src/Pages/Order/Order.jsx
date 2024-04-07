@@ -7,7 +7,7 @@ import { useHistory, useParams } from "react-router";
 import useAuth from "../../Hooks/useAuth";
 import "./Order.css";
 
-const Order = () => {
+const Order = () => { 
   const history = useHistory();
   const [orderSuccess, setOrderSuccess] = useState(false);
   //  import user and useparams id
