@@ -24,7 +24,7 @@ const OrderProduct = ({ order }) => {
           }
         });
     }
-  };
+  }; 
 
   // return orders here
   return (

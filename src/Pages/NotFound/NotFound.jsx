@@ -10,7 +10,7 @@ const NotFound = () => {
       <img
         className='NotFound'
         src='https://i.ibb.co/ZNdc7Sy/2704891-2.jpg'
-        alt=''
+        alt='' 
       />
       <div>
         <Link to='/home'>

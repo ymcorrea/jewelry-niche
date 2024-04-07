@@ -22,7 +22,7 @@ const MyOrders = ({ quantity }) => {
           {products.slice(0, quantity).map((product) => (
             <OrderProduct key={product._id} order={product} />
           ))}
-        </Row>
+        </Row> 
       ) : (
         <h3>You have no products added</h3>
       )}

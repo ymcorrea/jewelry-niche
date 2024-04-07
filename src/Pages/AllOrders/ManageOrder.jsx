@@ -13,7 +13,7 @@ const ManageOrder = ({ order }) => {
   const handleStatus = (id) => {
     const url = `https://jewelry-niche-server.vercel.app/orders/${id}`;
     fetch(url, {
-      method: "PUT",
+      method: "PUT", 
       headers: {
         "content-type": "application/json",
       },

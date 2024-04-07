@@ -17,7 +17,7 @@ const Category = () => {
                 className='img-fluid cat-img'
                 alt=''
               />
-            </Link>
+            </Link> 
           </div>
           <div className='category-img mt-3'>
             <Link to='/products'>

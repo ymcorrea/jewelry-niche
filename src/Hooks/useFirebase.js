@@ -6,7 +6,7 @@ import initializAuthentication from "../firebase/firebase.init";
 
 
 initializAuthentication();
-
+ 
 const UseFirebase = () => {
     // Create state for update data
     const [user, setUser] = useState({});

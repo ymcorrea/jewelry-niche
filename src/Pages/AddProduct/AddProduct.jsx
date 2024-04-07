@@ -18,7 +18,7 @@ const AddProduct = () => {
     if (!data.title) {
       return (
         <Spinner className='mx-auto' animation='border' variant='danger' />
-      );
+      ); 
     } else {
       data.rating = rating;
       //   fetch the post API

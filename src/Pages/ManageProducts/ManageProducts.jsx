@@ -21,6 +21,6 @@ const ManageProducts = ({ quantity }) => {
       </Row>
     </Container>
   );
-};
+}; 
 
 export default ManageProducts;

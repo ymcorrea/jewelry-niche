@@ -21,7 +21,7 @@ const AboutUs = () => {
                     }}>
                         <img className='img-about' src="https://dyopath.com/wp-content/uploads/2020/06/EDICATION-IMG.png" alt='' />
                     </Col>
-                </Row>
+                </Row> 
                 <p className='second-title'>Our origins</p>
                 <p className='text'>
                     Growing up in a small Turkish village,SmartHead founder Eren Bali had few

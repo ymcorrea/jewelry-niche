@@ -9,7 +9,7 @@ const AuthProvider = ({ children }) => {
         <AuthContext.Provider value={allContexts}>
             {children}
         </AuthContext.Provider>
-    );
+    ); 
 };
 
 export default AuthProvider;

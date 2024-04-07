@@ -10,7 +10,7 @@ const Login = () => {
   // import data from useAuth, useLocation and useHistory.
   const {
     loginWithEmailPassword,
-    SignInWithGoogle,
+    SignInWithGoogle, 
     isLoading,
     error,
     user } = useAuth();
