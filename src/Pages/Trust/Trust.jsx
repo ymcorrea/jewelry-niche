@@ -26,7 +26,7 @@ const Trust = () => {
               src='https://i.ibb.co/VH0M8Fj/1180918.png'
               alt=''
               className='trust-logo' 
-            />
+            /> 
           </div>
           <p className='trust-title'>PURCHASE SAFELY</p>
           <p className='trust-text'>

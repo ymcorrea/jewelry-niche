@@ -23,7 +23,7 @@ function App() {
       <AuthProvider>
         <Router>
           <Header />
-          <Switch>
+          <Switch> 
             <Route exact path='/'> 
               <Home />
             </Route>

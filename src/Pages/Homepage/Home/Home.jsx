@@ -20,7 +20,7 @@ const Home = () => {
             Explore All Products
           </Button>
         </Link> 
-      </div>
+      </div>   
       <Review />
       <Trust />
       <Footer />

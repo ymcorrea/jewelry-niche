@@ -21,7 +21,7 @@ const Login = () => {
   const handleGoogleLogin = () => {
     SignInWithGoogle(location, history);
   };
-
+      
   // Update email and password fields
   const { register, handleSubmit } = useForm();
   const onSubmit = (data) => {

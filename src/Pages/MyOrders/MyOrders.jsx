@@ -21,7 +21,7 @@ const MyOrders = ({ quantity }) => {
         <Row className='g-3 g-sm-5'>
           {products.slice(0, quantity).map((product) => (
             <OrderProduct key={product._id} order={product} />
-          ))}
+          ))}   
         </Row> 
       ) : (
         <h3>You have no products added</h3>

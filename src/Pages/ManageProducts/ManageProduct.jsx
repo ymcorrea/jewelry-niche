@@ -21,7 +21,7 @@ const ManageProduct = ({ product }) => {
           }
         });
     }
-  }; 
+  };   
 
   return (
     <Col xs={12} md={4}>

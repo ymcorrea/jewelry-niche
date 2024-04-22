@@ -23,7 +23,7 @@ function Review() {
   useEffect(() => {
     fetch("https://jewelry-niche-server.vercel.app/review/")
       .then((res) => res.json())
-      .then((data) => setReviews(data));
+      .then((data) => setReviews(data));  
   }, []); 
 
   return (

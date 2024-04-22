@@ -18,7 +18,7 @@ const NotFound = () => {
         </Link>
       </div>
     </div>
-  );
+  );  
 };
 
 export default NotFound;

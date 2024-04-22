@@ -24,7 +24,7 @@ function Footer() {
               <button className='btn btn-regular px-3 mt-md-4'>
                 EXPLORE NOW
               </button> 
-            </Link>
+            </Link>   
           </Col>
           <Col xs={12} md={3}>
             <p className='footer-title'>INFORMATION</p>
