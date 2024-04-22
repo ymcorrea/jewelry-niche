@@ -12,7 +12,7 @@ const AllOrders = () => {
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, [products]);
-
+     
   return ( 
     <Container className='my-md-5 my-3 text-center'>
       <Row className='g-3 g-md-5'>

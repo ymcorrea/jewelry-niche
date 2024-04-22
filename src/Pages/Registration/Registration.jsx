@@ -21,7 +21,7 @@ const Registration = () => {
         data.email,
         data.password,
         location, 
-      );
+      );   
     }
   };
 

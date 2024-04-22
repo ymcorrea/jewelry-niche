@@ -16,7 +16,7 @@ const Payment = (props) => {
   const [price, setPrice] = useState(0);
  
   // load user products from database
-  useEffect(() => {
+  useEffect(() => {   
     fetch(`https://jewelry-niche-server.vercel.app/orders/${user.email}`)
       .then((response) => response.json())
       .then((data) => {

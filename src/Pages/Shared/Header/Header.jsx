@@ -25,7 +25,7 @@ const Header = () => {
           <Navbar.Collapse className='text-bg-light mt-2' id='responsive-navbar-nav'>
             <Nav className='mx-auto nav-bar'>
               <Nav.Link as={Link} to='/about'>
-                ABOUT US
+                ABOUT US  
               </Nav.Link>
               <Nav.Link as={Link} to='/contact'> 
                 CONTACT US

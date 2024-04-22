@@ -19,7 +19,7 @@ const Products = ({ quantity }) => {
       <p className='products-title'>Feature Products</p>
       <img src='https://i.ibb.co/jrcL1wV/divider1.png' alt='' />
       <br />
-      <br />
+      <br />   
       <Row className='g-3 g-sm-5'>
         {products.slice(0, quantity).map((product) => (
           <Product key={product._id} product={product} />

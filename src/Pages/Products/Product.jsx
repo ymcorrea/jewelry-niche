@@ -19,7 +19,7 @@ const Product = ({ product }) => {
             <p className='product-title'>{product.title}</p>
             <p className='product-vendor'>{product.vendor}</p>
             <Rating name='read-only' value={product.rating} readOnly />
-          </CardContent>
+          </CardContent>   
         </CardActionArea>
         <CardActions className='d-flex justify-content-between'>
           <p className='product-price'>${product.price}</p>

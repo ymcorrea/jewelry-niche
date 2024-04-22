@@ -23,7 +23,7 @@ function Slider() {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img
+          <img 
             className='d-block w-100'
             src='https://i.ibb.co/wwbj9xq/slider-6804f5c5-7a22-4249-b276-44c59cc9c305-2000x.webp'
             alt='Second slide'

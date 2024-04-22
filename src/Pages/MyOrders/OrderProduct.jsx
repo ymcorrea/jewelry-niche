@@ -22,7 +22,7 @@ const OrderProduct = ({ order }) => {
             console.log(deleteData);
             alert("Deleted Successfully");
           }
-        });
+        });   
     }
   }; 
 

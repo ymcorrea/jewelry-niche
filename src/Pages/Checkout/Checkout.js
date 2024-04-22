@@ -12,7 +12,7 @@ const CheckoutForm = ({ price, id, name }) => {
     const [success, setSuccess] = useState('');
     const [processing, setProcessing] = useState(false);
     const [clientSecret, setClientSecret] = useState('');
-
+    
     useEffect(() => {
         fetch('https://stark-caverns-04377.herokuapp.com/create-payment-intent', {
             method: 'POST',

@@ -16,7 +16,7 @@ const Category = () => {
                 src='https://i.ibb.co/Q92xwP7/home-6-cat-1-1024x10242x2.jpg'
                 className='img-fluid cat-img'
                 alt=''
-              />
+              />   
             </Link> 
           </div>
           <div className='category-img mt-3'>

@@ -12,7 +12,7 @@ const AddReview = () => {
   const handleRating = (rate) => {
     setRating(rate); 
     console.log(rating);
-  };
+  }; 
   const { user } = useAuth();
   const [success, setSuccess] = useState(false);
   const { register, handleSubmit } = useForm();

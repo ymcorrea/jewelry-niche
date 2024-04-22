@@ -15,7 +15,7 @@ const AboutUs = () => {
                             We shell <br /> Products <br /> Around the world
                         </p>
                     </Col>
-                    <Col style={{
+                    <Col style={{ 
                         display: 'flex',
                         alignItems: 'center',
                     }}>
